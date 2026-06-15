@@ -1,2 +1,6 @@
 # Claude Code local settings
 .claude/
+
+summary.md
+
+index_no_lock.html
